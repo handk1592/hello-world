@@ -12,5 +12,7 @@ interface Tv {
 	public void powerOn();
 	public void powerOff();
 	public void volumeUp();
+	public void volumeUp2();
 	public void volumDown();
+	public void volumDown2();
 }
