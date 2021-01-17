@@ -7,3 +7,8 @@ public class test001 {
 	}
 
 }
+
+class Tv {
+	boolean power;
+	int volume;
+}
